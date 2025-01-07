@@ -2,7 +2,7 @@
 #Install Latest Stable 1Panel Release
 #新增安装版本选择：官方版本和wrt1panel仓库版本，检测opkg命令是否存在以判断；
 
-WRT_URL="https://github.com/gcsong023/wrt1panel/releases"
+WRT_URL="https://github.com/dragonzhao93/wrt1panel/releases"
 BASE_URL="https://resource.fit2cloud.com/1panel/package"
 
 # 使用 uname -m 来直接获取系统架构
